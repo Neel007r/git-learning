@@ -1,3 +1,3 @@
-console.log("hello git");
+console.log("main rebase for");
 
-console.log("neel");
+console.log("just for example");
